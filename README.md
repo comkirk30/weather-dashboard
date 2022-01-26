@@ -23,3 +23,4 @@ THEN I am again presented with current and future conditions for that city
 Deployed Url: https://comkirk30.github.io/weather-dashboard/
 GitHub: https://github.com/comkirk30/weather-dashboard
 
+![Web capture_26-1-2022_18268_](https://user-images.githubusercontent.com/94499329/151264062-364d0409-0b30-44cb-8c77-7125398df004.jpeg)
