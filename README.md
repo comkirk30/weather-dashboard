@@ -1,6 +1,6 @@
 # weather-dashboard
 
-This app will display the current and 5-day forcast for the city the user searches.
+This app will display the current and 5-day forecast for the city the user searches.
 
 User Story:
 AS A traveler
